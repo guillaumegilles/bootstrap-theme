@@ -7,6 +7,6 @@ website:
 format:
   html:
     theme:
-      light: sass/light.scss
-      dark: sass/dark.scss
+      light: scss/light.scss
+      dark: scss/dark.scss
     toc: true
