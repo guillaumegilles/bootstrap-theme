@@ -1,0 +1,51 @@
+[
+  {
+    "objectID": "TODO.html",
+    "href": "TODO.html",
+    "title": "To Do",
+    "section": "",
+    "text": "Adding .github/funding.yaml\ncheck out this repo : https://github.com/cadojo/catppuccin/tree/main\nrename directory and repo to bootstrap theme"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Catppuccin Bootswatch Theme",
+    "section": "",
+    "text": "The first time I came across catppuccin themes, I wasn’t very impressed.\nNot to mention the best name ever: cat + cappuccino"
+  },
+  {
+    "objectID": "index.html#creating-bootswatch-sample-pages-for-all-catppuccin-flavors",
+    "href": "index.html#creating-bootswatch-sample-pages-for-all-catppuccin-flavors",
+    "title": "Catppuccin Bootswatch Theme",
+    "section": "Creating Bootswatch sample pages for all Catppuccin flavors",
+    "text": "Creating Bootswatch sample pages for all Catppuccin flavors"
+  },
+  {
+    "objectID": "index.html#incorporating-sass-variables-color-pallete",
+    "href": "index.html#incorporating-sass-variables-color-pallete",
+    "title": "Catppuccin Bootswatch Theme",
+    "section": "Incorporating SASS variables (color pallete)",
+    "text": "Incorporating SASS variables (color pallete)\nhttps://catppuccin.com/palette\n\n$theme: \"latte\" !default;\n/*-- scss:defaults --*/\n\n//\n// Color system\n//\n\n$base: #eff1f5 !default;\n$mantle: #e6e9ef !default;\n$crust: #dce0e8 !default;\n$surface-0: #ccd0da !default;\n$surface-1: #bcc0cc !default;\n$surface-2: #acb0be !default;\n$overlay-0: #9ca0b0 !default;\n$overlay-1: #8c8fa1 !default;\n$overlay-2: #7c7f93 !default;\n\n$rosewater: #dc8a78 !default;\n$flamingo: #dd7878 !default;\n$pink: #ea76cb !default;\n$mauve: #8839ef !default;\n$red: #d20f39 !default;\n$maroon: #e64553 !default;\n$peach: #fe640b !default;\n$yellow: #df8e1d !default;\n$green: #40a02b !default;\n$teal: #179299 !default;\n$sky: #04a5e5 !default;\n$sapphire: #209fb5 !default;\n$blue: #1e66f5 !default;\n$lavender: #7287fd !default;\n\n$subtext-0: #6c6f85 !default;\n$subtext-1: #5c5f77 !default;\n$text: #4c4f69 !default;"
+  },
+  {
+    "objectID": "index.html#tinkering-with-styl-guide",
+    "href": "index.html#tinkering-with-styl-guide",
+    "title": "Catppuccin Bootswatch Theme",
+    "section": "tinkering with styl guide",
+    "text": "tinkering with styl guide\nhttps://github.com/catppuccin/catppuccin/blob/main/docs/style-guide.md\n\nstarting with Quarto .scss files for a theme, for example pulse.scss: https://github.com/quarto-dev/quarto-cli/tree/main/src/resources/formats/html/bootstrap/themes\neach h1 to h6 different color look at vscode handle it"
+  },
+  {
+    "objectID": "index.html#h2",
+    "href": "index.html#h2",
+    "title": "Catppuccin Bootswatch Theme",
+    "section": "h2",
+    "text": "h2\n\nh3\n\nh4\n\nh5\n\nh6\ntext with emphasis italic"
+  },
+  {
+    "objectID": "index.html#mood-board",
+    "href": "index.html#mood-board",
+    "title": "Catppuccin Bootswatch Theme",
+    "section": "Mood Board",
+    "text": "Mood Board\n\nMister Chad\n\n\n\nCatppuccin"
+  }
+]
