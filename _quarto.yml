@@ -1,8 +1,9 @@
 project:
   type: website
+  output-dir: docs
 
 website:
-  title: "Catppuccin Bootswatch Theme"
+  title: "Bootstraps Custom Theme"
 
 format:
   html:
