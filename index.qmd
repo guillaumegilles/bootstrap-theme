@@ -1,6 +1,29 @@
 ---
-title: "Catppuccin Bootswatch Theme"
+title: Customized Bootswatch Theme
+image: chad.png
+draft: true
 ---
+
+::: {.callout-info}
+
+# To Do
+
+- [ ] Adding `.github/funding.yaml`
+- [ ] check out this repo: https://github.com/cadojo/catppuccin/tree/main
+- [ ] check out thess repo:
+  - https://getbootstrap.com/docs/5.3/customize/sass/#importing
+  - https://github.com/catppuccin/palette/blob/main/docs/sass.md
+
+### SCSS
+
+[HTML Theming](https://quarto.org/docs/output-formats/html-themes.html)
+
+- [Bootstrap](https://getbootstrap.com/)
+- [Bootswatch](https://bootswatch.com/)
+- [SASS](https://sass-lang.com/)
+- [Catppuccin Palette](https://catppuccin.com/palette) https://github.com/catppuccin/palette
+
+:::
 
 The first time I came across [catppuccin themes](https://catppuccin.com/), I wasn’t very impressed.
 
@@ -174,10 +197,10 @@ _italic_
 
 ## Mood Board
 
-- **Mister Chad**
+- **[Mister Chad](https://mister-chad.com/welcome)**
 
 ![](images/chad.png)
 
-- **Catppuccin**
+- **[Catppuccin](https://catppuccin.com/)**
 
 ![](images/catppuccin.png)
